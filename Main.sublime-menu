@@ -12,42 +12,26 @@
                 "children":
                 [
                     {
-<<<<<<< HEAD
-                        "caption": "To-Done",
-=======
                         "caption": "ToDone",
->>>>>>> f3734930df4ee051fc928fde0eb84bc6aad4b179
                         "children":
                         [
                             {
                                 "command": "open_file",
-<<<<<<< HEAD
                                 "args": {"file": "${packages}/To-Done/readme.todo"},
-=======
-                                "args": {"file": "${packages}/ToDone/readme.todo"},
->>>>>>> f3734930df4ee051fc928fde0eb84bc6aad4b179
                                 "caption": "README"
                             },
                             { "caption": "-" },
                             {
                                 "command": "open_file", "args":
                                 {
-<<<<<<< HEAD
                                     "file": "${packages}/To-Done/Settings/To-Done.sublime-settings"
-=======
-                                    "file": "${packages}/ToDone/Settings/ToDone.sublime-settings"
->>>>>>> f3734930df4ee051fc928fde0eb84bc6aad4b179
                                 },
                                 "caption": "Settings – Default"
                             },
                             {
                                 "command": "open_file", "args":
                                 {
-<<<<<<< HEAD
                                     "file": "${packages}/User/To-Done.sublime-settings"
-=======
-                                    "file": "${packages}/User/ToDone.sublime-settings"
->>>>>>> f3734930df4ee051fc928fde0eb84bc6aad4b179
                                 },
                                 "caption": "Settings – User"
                             }
