@@ -58,17 +58,17 @@ Hard-tabs at 8-space width
 		to `5` dashes + `1` exclamation mark + `1` plus-sign. Tabs
 		that are `8` spaces wide allows there to always be at least one
 		an extra space between the tokens and the task title:
-	+!-----	A title here
+	!-----	A title here
 	----	A Title here
 	---	A title here
-		^ `sweet alignment`
+		`sweet alignment`
 
 
 More expressive notes
 ---	If you need something more conplex notes: ///
 	An `explicit note` is started by the `///` characters.
 	An explicit note can have lines that start with a `-` or `+`.
-	Explict notes end when another `///` is encountered. 
+	Explict notes end when another `///` is encountered.
 	Whitespace is ignored
 	- some simple notes
 	- that aren't considered tasks

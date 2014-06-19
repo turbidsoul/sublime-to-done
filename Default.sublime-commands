@@ -1,0 +1,16 @@
+[
+    {
+        "caption": "ToDone: CompleteTask",
+        "command": "complete_task"
+    },
+
+    {
+        "caption": "ToDone: CancelTask",
+        "command": "cancel_task"
+    },
+
+    {
+        "caption": "ToDone: EmergencyTask",
+        "command": "emergency_task"
+    }
+]
