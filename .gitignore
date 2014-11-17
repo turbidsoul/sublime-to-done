@@ -6,6 +6,3 @@
 *.pyo
 
 .DS_Store
-*.pyc
-*.sublime-project
-*.sublime-workspace

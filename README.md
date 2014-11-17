@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-# Sublime Text package for to do list
-
-## About
-
-This package is a simple tool for creating to do lists. To do lists are just text files with the extension "todo". The functionality of this package is based entirely on a language syntax.
-
-![](https://raw.github.com/tiffon/sublime-to-done/master/img/example.png)
-
-=======
 # Sublime Text package for to do lists
 
 ## About
@@ -26,7 +16,6 @@ To do lists are just plain text files with syntax highlighting applied. The inte
 
 The language syntax is **ToDone**, and files with the extension `todo` are automatically set to the this language syntax.
 
->>>>>>> f3734930df4ee051fc928fde0eb84bc6aad4b179
 ## Content
 
 ### Tasks
@@ -141,10 +130,7 @@ Tasks can be dimmed to make them easier to ignore by putting a period `.` in fro
 The goto menu (`super+r` on Mac) is set up to show only current tasks. Completed tasks and cancelled tasks are filtered out.
 
 ![](https://raw.github.com/tiffon/sublime-to-done/master/img/example-goto.png)
-<<<<<<< HEAD
-=======
 
 ## Discussion Group
 
 https://groups.google.com/forum/#!forum/to-done
->>>>>>> f3734930df4ee051fc928fde0eb84bc6aad4b179

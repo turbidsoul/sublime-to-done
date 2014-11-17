@@ -1,0 +1,5 @@
+[
+    {"keys": ["ctrl+t", "ctrl+keypad_plus"], "command": "complete_task"},
+    {"keys": ["ctrl+t", "ctrl+."], "command": "cancel_task"},
+    {"keys": ["ctrl+t", "ctrl+1"], "command": "emergency_task"}
+]

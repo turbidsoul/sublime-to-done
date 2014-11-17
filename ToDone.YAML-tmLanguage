@@ -28,20 +28,17 @@ repository:
       - include: '#lvl-3'
       - include: '#lvl-4'
       - include: '#lvl-5'
-      - include: '#note-include'
-      - include: '#raw-note'
-
-  note-include:
-    patterns:
       - include: '#note'
-      - include: '#note-em'
 
   note:
     name: storage.task-note.todone
-    begin: ^\s*(?!(!|\-|\+|\.|///))
+    begin: (?=.)
     end: $
     patterns:
+      - match: |
+          ((?!///)[^`])+
       - include: '#note-em'
+      - include: '#raw-note'
 
   note-em:
     name: storage.task-note.em.todone
@@ -49,7 +46,7 @@ repository:
     beginCaptures:
       '0': {name: punctuation.definition.note.em.begin.todone}
     end: '`'
-    endCaptures: 
+    endCaptures:
       '0': {name: punctuation.definition.note.em.end.todone}
     patterns:
       - match: \\`
@@ -64,6 +61,8 @@ repository:
       '0': {name: punctuation.definition.note.raw.end.todone}
     patterns:
       - include: '#note-em'
+      - match: |
+          ((?!///)[^`])+
 
   task-over-raw-note:
     begin: ///
@@ -100,7 +99,7 @@ repository:
       (?x)
       ^
         (\s*)
-        (\.)(\+?!?\-+)
+        (\.)(\+?!?\-+[12345]?)
         \s*
         (?:\(
           ([^\)]+)
@@ -142,29 +141,34 @@ repository:
       (\s*)
       (!)
         (?:
-          (\-{1})\s+((?:://|/(?!//)|[^:\n/])*:?) |
-          (\-{2})\s+((?:://|/(?!//)|[^:\n/])*:?) |
-          (\-{3})\s+((?:://|/(?!//)|[^:\n/])*:?) |
-          (\-{4})\s+((?:://|/(?!//)|[^:\n/])*:?) |
-          (\-{5})\s+((?:://|/(?!//)|[^:\n/])*:?) 
+          (\-{1}|\-(1))\s+((?:://|/(?!//)|[^:\n/])*:?) |
+          (\-{2}|\-(2))\s+((?:://|/(?!//)|[^:\n/])*:?) |
+          (\-{3}|\-(3))\s+((?:://|/(?!//)|[^:\n/])*:?) |
+          (\-{4}|\-(4))\s+((?:://|/(?!//)|[^:\n/])*:?) |
+          (\-{5}|\-(5))\s+((?:://|/(?!//)|[^:\n/])*:?) 
           
         )
+
     beginCaptures:
       '0': {name: symbol.definition.task-heading.todone}
       '2': {name: punctuation.definition.disaster.begin.todone}
       '3': {name: keyword.operator.task.lvl1.todone}
-      '4': {name: entity.name.task.lvl1.todone}
-      '5': {name: keyword.operator.task.lvl2.todone}
-      '6': {name: entity.name.task.lvl2.todone}
-      '7': {name: keyword.operator.task.lvl3.todone}
-      '8': {name: entity.name.task.lvl3.todone}
-      '9': {name: keyword.operator.task.lvl4.todone}
-      '10': {name: entity.name.task.lvl4.todone}
-      '11': {name: keyword.operator.task.lvl5.todone}
-      '12': {name: entity.name.task.lvl5.todone}
+      '4': {name: keyword.operator.task.numeral.lvl1.todone}
+      '5': {name: entity.name.task.lvl1.todone}
+      '6': {name: keyword.operator.task.lvl2.todone}
+      '7': {name: keyword.operator.task.numeral.lvl2.todone}
+      '8': {name: entity.name.task.lvl2.todone}
+      '9': {name: keyword.operator.task.lvl3.todone}
+      '10': {name: keyword.operator.task.numeral.lvl3.todone}
+      '11': {name: entity.name.task.lvl3.todone}
+      '12': {name: keyword.operator.task.lvl4.todone}
+      '13': {name: keyword.operator.task.numeral.lvl4.todone}
+      '14': {name: entity.name.task.lvl4.todone}
+      '15': {name: keyword.operator.task.lvl5.todone}
+      '16': {name: keyword.operator.task.numeral.lvl5.todone}
+      '17': {name: entity.name.task.lvl5.todone}
       
-    end: ^(?!\1)|^(?=\s*\n)|^(?=\1[^\s])
-    # end: ^(?!\1)|^(?=\s*\n)|^(?=\1(\.|!|\-|\+))
+    end: ^(?!\1\s)|^(?=\s*\n)|^(?=\1[^\s])
     endCaptures:
       '0': {name: punctuation.definition.class-block.todone}
     patterns:
@@ -172,55 +176,60 @@ repository:
 
   lvl-1:
     name: storage.type.task.todone
-    begin: (\s*)(\-{1})\s((?:://|/(?!//)|[^:\n/])*:?)
+    begin: (\s*)(\-{1}|\-(1))\s((?:://|/(?!//)|[^:\n/])*)
     beginCaptures:
       '0': {name: symbol.definition.task-heading.todone}
       '2': {name: keyword.operator.task.lvl1.todone}
-      '3': {name: entity.name.task.lvl1.todone}
+      '3': {name: keyword.operator.task.numeral.lvl1.todone}
+      '4': {name: entity.name.task.lvl1.todone}
     end: ^(?!\1)|^(?=\s*\n)|^(?=\1[^\s])
     patterns:
       - include: '#everything'
 
   lvl-2:
     name: storage.type.task.todone
-    begin: (\s*)(\-{2})\s((?:://|/(?!//)|[^:\n/])*:?)
+    begin: (\s*)(\-{2}|\-(2))\s((?:://|/(?!//)|[^:\n/])*)
     beginCaptures:
       '0': {name: symbol.definition.task-heading.todone}
       '2': {name: keyword.operator.task.lvl2.todone}
-      '3': {name: entity.name.task.lvl2.todone}
+      '3': {name: keyword.operator.task.numeral.lvl2.todone}
+      '4': {name: entity.name.task.lvl2.todone}
     end: ^(?!\1)|^(?=\s*\n)|^(?=\1[^\s])
     patterns:
       - include: '#everything'
 
   lvl-3:
     name: storage.type.task.todone
-    begin: (\s*)(\-{3})\s((?:://|/(?!//)|[^:\n/])*:?)
+    begin: (\s*)(\-{3}|\-(3))\s((?:://|/(?!//)|[^:\n/])*)
     beginCaptures:
       '0': {name: symbol.definition.task-heading.todone}
       '2': {name: keyword.operator.task.lvl3.todone}
-      '3': {name: entity.name.task.lvl3.todone}
+      '3': {name: keyword.operator.task.numeral.lvl3.todone}
+      '4': {name: entity.name.task.lvl3.todone}
     end: ^(?!\1)|^(?=\s*\n)|^(?=\1[^\s])
     patterns:
       - include: '#everything'
 
   lvl-4:
     name: storage.type.task.todone
-    begin: (\s*)(\-{4})\s((?:://|/(?!//)|[^:\n/])*:?)
+    begin: (\s*)(\-{4}|\-(4))\s((?:://|/(?!//)|[^:\n/])*)
     beginCaptures:
       '0': {name: symbol.definition.task-heading.todone}
       '2': {name: keyword.operator.task.lvl4.todone}
-      '3': {name: entity.name.task.lvl4.todone}
+      '3': {name: keyword.operator.task.numeral.lvl4.todone}
+      '4': {name: entity.name.task.lvl4.todone}
     end: ^(?!\1)|^(?=\s*\n)|^(?=\1[^\s])
     patterns:
       - include: '#everything'
 
   lvl-5:
     name: storage.type.task.todone
-    begin: (\s*)(\-{5})\s((?:://|/(?!//)|[^:\n/])*:?)
+    begin: (\s*)(\-{5}|\-(5))\s((?:://|/(?!//)|[^:\n/])*)
     beginCaptures:
       '0': {name: symbol.definition.task-heading.todone}
       '2': {name: keyword.operator.task.lvl5.todone}
-      '3': {name: entity.name.task.lvl5.todone}
+      '3': {name: keyword.operator.task.numeral.lvl5.todone}
+      '4': {name: entity.name.task.lvl5.todone}
     end: ^(?!\1)|^(?=\s*\n)|^(?=\1[^\s])
     patterns:
       - include: '#everything'

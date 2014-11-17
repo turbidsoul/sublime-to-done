@@ -1,0 +1,2346 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"CountType	(global, class)"
+			],
+			[
+				"param",
+				"ParamType	(imported, class)"
+			],
+			[
+				"int",
+				"INT	(imported, instance)"
+			],
+			[
+				"argument",
+				"argument(param_decls, attrs)	(imported, function)"
+			],
+			[
+				"stats_c",
+				"stats_course_click_count_by_month	(global, function)"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"id",
+				"id_key	(attribute, instance)"
+			],
+			[
+				"key",
+				"key_type	(attribute, instance)"
+			],
+			[
+				"fethc",
+				"fetchone"
+			],
+			[
+				"mysql",
+				"mysql_charset"
+			],
+			[
+				"stat",
+				"stats_download_wenku_count_by_30days(log_dir)	(global, function)"
+			],
+			[
+				"h",
+				"hkeys(name)	(attribute, function)"
+			],
+			[
+				"pr",
+				"print_exc(limit, file)	(imported, function)"
+			],
+			[
+				"stats",
+				"stats_search_kw_by_24hours	(imported, function)"
+			],
+			[
+				"front",
+				"front_kw"
+			],
+			[
+				"bbs",
+				"bbs_kw"
+			],
+			[
+				"ex",
+				"expire(name, time)	(attribute, function)"
+			],
+			[
+				"loig",
+				"log2_file	(global, instance)"
+			],
+			[
+				"_add",
+				"_add_searchkw(ar)	(global, function)"
+			],
+			[
+				"tj_access",
+				"tj_access_record_total"
+			],
+			[
+				"tables",
+				"tables_str	(local, instance)"
+			],
+			[
+				"__talbe",
+				"__table_args__	(local, instance)"
+			],
+			[
+				"up",
+				"up_campaign	(attribute, instance)"
+			],
+			[
+				"acc",
+				"AccessRecord	(global, class)"
+			],
+			[
+				"bbsnews",
+				"BBS_NEWS_WEEK	(attribute, instance)"
+			],
+			[
+				"bbs_v",
+				"BBS_VIDEO_WEEK	(attribute, instance)"
+			],
+			[
+				"BBS_re",
+				"BBS_RESOURCE_WEEK	(attribute, instance)"
+			],
+			[
+				"BBS_new",
+				"BBS_NEWS_WEEK	(attribute, instance)"
+			],
+			[
+				"BBS_V",
+				"BBS_VIDEO_WEEK	(attribute, instance)"
+			],
+			[
+				"BBS_RE",
+				"BBS_RESOURCE_WEEK	(attribute, instance)"
+			],
+			[
+				"BBS_f",
+				"BBS_FORUM_WEEK	(attribute, instance)"
+			],
+			[
+				"get",
+				"get_week_start_end_day	(global, function)"
+			],
+			[
+				"find",
+				"find_one"
+			],
+			[
+				"bbs_a",
+				"BBS_NEWS_DAY	(attribute, instance)"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"bc",
+				"bc_type	(attribute, instance)"
+			],
+			[
+				"resource",
+				"resource_bc	(local, instance)"
+			],
+			[
+				"bb",
+				"BBSCountCur	(global, class)"
+			],
+			[
+				"__ta",
+				"__table_args__"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"__table",
+				"__tablename__"
+			],
+			[
+				"bbs_form",
+				"BBS_FORUM_WEEK	(attribute, instance)"
+			],
+			[
+				"ac",
+				"ac_type	(attribute, instance)"
+			],
+			[
+				"wr",
+				"writelines	(builtin, function)"
+			],
+			[
+				"wirte",
+				"writelines	(builtin, function)"
+			],
+			[
+				"fet",
+				"fetchall"
+			],
+			[
+				"all",
+				"all_up	(local, instance)"
+			],
+			[
+				"act",
+				"ACType	(imported, class)"
+			],
+			[
+				"b2f",
+				"b2f_ip	(local, instance)"
+			],
+			[
+				"mysql_",
+				"mysql_engine"
+			],
+			[
+				"user",
+				"user_ids	(local, instance)"
+			],
+			[
+				"time",
+				"timestamp	(local, instance)"
+			],
+			[
+				"rrd",
+				"rrd_file	(local, instance)"
+			],
+			[
+				"click",
+				"clickcount_file	(local, instance)"
+			],
+			[
+				"pdf",
+				"pdf_output	(global, instance)"
+			],
+			[
+				"file",
+				"file_name	(global, instance)"
+			],
+			[
+				"et",
+				"et2pdf(input_file, output_file)	(global, function)"
+			],
+			[
+				"target",
+				"target_path	(global, instance)"
+			],
+			[
+				"tar",
+				"target_path	(global, instance)"
+			],
+			[
+				"is",
+				"is_source_output	(global, instance)"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"root",
+				"root_dir	(local, instance)"
+			],
+			[
+				"dir",
+				"dir_gen	(global, instance)"
+			],
+			[
+				"tr",
+				"traversal_dir(root_dir)	(global, function)"
+			],
+			[
+				"Ex",
+				"ExportPdf"
+			],
+			[
+				"input",
+				"input_file	(local, instance)"
+			],
+			[
+				"gl",
+				"global	(keyword, instance)"
+			],
+			[
+				"def",
+				"def	Function"
+			],
+			[
+				"gen",
+				"GenerateFromTypeLibSpec(typelibInfo, file, verboseLevel, progressInstance, bUnicodeToString, bForDemand, bBuildHidden)	(imported, function)"
+			],
+			[
+				"ds",
+				"dsName=	(parameter_keyword, instance)"
+			],
+			[
+				"interac",
+				"InteractiveShellApp"
+			],
+			[
+				"Inter",
+				"InteractiveShellApp"
+			],
+			[
+				"el",
+				"elseif"
+			],
+			[
+				"redis",
+				"redis_inc"
+			],
+			[
+				"items",
+				"iteritems	(builtin, function)"
+			],
+			[
+				"pro",
+				"provinces	(global, instance)"
+			],
+			[
+				"get_sheet",
+				"get_sheet_by_name(name)	(attribute, function)"
+			],
+			[
+				"FileSystemEvent",
+				"FileSystemEventHandler	(global, class)"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"class",
+				"class	New Class"
+			],
+			[
+				"tj",
+				"tjredis"
+			],
+			[
+				"referr",
+				"referrer_key"
+			],
+			[
+				"referrer",
+				"referrer_domain"
+			],
+			[
+				"access",
+				"access_by_lua_file"
+			],
+			[
+				"bytes",
+				"bytes_in"
+			],
+			[
+				"gp",
+				"GPRINT	(imported, class)"
+			],
+			[
+				"net",
+				"network_io_counters(pernic)	(imported, function)"
+			],
+			[
+				"w",
+				"write(debug)	(attribute, function)"
+			],
+			[
+				"start",
+				"start=	(parameter_keyword, instance)"
+			],
+			[
+				"grp",
+				"Graph	(global, class)"
+			],
+			[
+				"Lin",
+				"LINE	(global, instance)"
+			],
+			[
+				"buff",
+				"bufferValue(timeOrData, values)	(attribute, function)"
+			],
+			[
+				"buffer",
+				"bufferValue(timeOrData, values)	(attribute, function)"
+			],
+			[
+				"locar",
+				"loc_ars	(local, instance)"
+			],
+			[
+				"loc",
+				"loc_ars	(local, instance)"
+			],
+			[
+				"new",
+				"new_content	(local, instance)"
+			],
+			[
+				"sublime",
+				"sublime_plugin	(imported, module)"
+			],
+			[
+				"fe",
+				"find_one"
+			],
+			[
+				"sta",
+				"stats_order_source	(imported, function)"
+			],
+			[
+				"__",
+				"__init__()	(attribute, function)"
+			],
+			[
+				"course",
+				"courseNo"
+			],
+			[
+				"m_file",
+				"m_filename	(local, instance)"
+			],
+			[
+				"water",
+				"water_mark"
+			],
+			[
+				"img",
+				"img_dir	(global, instance)"
+			],
+			[
+				"para",
+				"Paragraph	(imported, class)"
+			],
+			[
+				"TA",
+				"TA_JUSTIFY	(global, instance)"
+			],
+			[
+				"google",
+				"google_plus"
+			],
+			[
+				"so",
+				"sou_shi"
+			],
+			[
+				"sou",
+				"soushi"
+			],
+			[
+				"ksd",
+				"ksdup_content"
+			],
+			[
+				"arg_ksd",
+				"arg_ksdup_content"
+			],
+			[
+				"arg_ksdup",
+				"arg_ksdup_content"
+			],
+			[
+				"str",
+				"str2utf8(s)	(imported, function)"
+			],
+			[
+				"un",
+				"unquote(s)	(imported, function)"
+			],
+			[
+				"enco",
+				"encoding	(local, instance)"
+			],
+			[
+				"dec",
+				"detect(aBuf)	(imported, function)"
+			],
+			[
+				"u_ksd",
+				"u_ksdcampaign"
+			],
+			[
+				"arg_ksd_",
+				"arg_ksd_medium"
+			],
+			[
+				"_",
+				"_add_ip(ip)	(global, function)"
+			],
+			[
+				"py",
+				"pay_mode"
+			],
+			[
+				"order_",
+				"order_no"
+			],
+			[
+				"pay",
+				"pay_time"
+			],
+			[
+				"order",
+				"order_id"
+			],
+			[
+				"pay_",
+				"PAY_BY_EXCHANGE_PURCHASE	(local, instance)"
+			],
+			[
+				"payb",
+				"PAY_BY_ACT_FREE	(local, instance)"
+			],
+			[
+				"pay_by_re",
+				"PAY_BY_REMIT_PSBC	(local, instance)"
+			],
+			[
+				"pay_by",
+				"PAY_BY_CHINAPAY	(local, instance)"
+			],
+			[
+				"Date",
+				"DateTime	(imported, class)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "todone.py",
+			"settings":
+			{
+				"buffer_size": 3083,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "example.todo",
+			"settings":
+			{
+				"buffer_size": 2837,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Sublime Text 3/Data/Packages/SublimeEvernote/Default (Windows).sublime-keymap",
+			"settings":
+			{
+				"buffer_size": 64,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 260.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"complete",
+				"ToDone: CompleteTask"
+			],
+			[
+				"aaa",
+				"z:AAAPackageDev: New Package"
+			],
+			[
+				"todon",
+				"ToDone: EmergencyTask"
+			],
+			[
+				"cancel",
+				"ToDone: CancelTask"
+			],
+			[
+				"todone",
+				"ToDone: EmergencyTask"
+			],
+			[
+				"cance",
+				"ToDone: CancelTask"
+			],
+			[
+				"task",
+				"ToDone: EmergencyTask"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"sidew",
+				"Table Editor: Show demo film in new scratch view"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"sxide",
+				"Set Syntax: Sublime Text Syntax Def (YAML)"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"svn",
+				"SVN: Commit…"
+			],
+			[
+				"sftp:diff",
+				"SFTP: Diff Remote File"
+			],
+			[
+				"sftp:",
+				"SFTP: Diff Remote File"
+			],
+			[
+				"switch",
+				"SFTP: Switch Remote Mapping…"
+			],
+			[
+				"sftp",
+				"SFTP: Edit Server…"
+			],
+			[
+				"json",
+				"TextFormatting - Prettify JSON"
+			],
+			[
+				"awk",
+				"Run Awk for this tab"
+			],
+			[
+				"rtmp",
+				"STProjectMaker: Create project"
+			],
+			[
+				"todo",
+				"Set Syntax: To-Done"
+			],
+			[
+				"svn ",
+				"SVN: Commit…"
+			],
+			[
+				"host",
+				"Open Hosts File"
+			],
+			[
+				"yaml",
+				"YAML Nav: Goto Symbol"
+			],
+			[
+				"scheme",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"scheme editor",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"color",
+				"Add Colorcode to current color scheme"
+			],
+			[
+				"schemr",
+				"Schemr: List all schemes"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"sche",
+				"Schemr: List all schemes"
+			],
+			[
+				"TEST",
+				"Table Editor: Set table syntax 'Pandoc' for current view"
+			],
+			[
+				"SIDE",
+				"View: Toggle Side Bar"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"trace",
+				"Traceback: Go Down"
+			],
+			[
+				"file",
+				"FileDiffs: Menu"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"key",
+				"FindKeyConflicts: Single Package Conflicts"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"theme",
+				"Themr: List themes"
+			],
+			[
+				"upload",
+				"Sublimall: Upload"
+			],
+			[
+				"sublimall",
+				"Sublimall: Restore backup"
+			],
+			[
+				"subli",
+				"Sublimall: Upload"
+			],
+			[
+				"restore",
+				"Sublimall: Restore backup"
+			],
+			[
+				"tag",
+				"Tagify: Get tag list"
+			],
+			[
+				"tagify",
+				"Tagify: Get tag list"
+			],
+			[
+				"package",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"packager",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"docblockr",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"inst all",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"Open URL under cursor"
+			],
+			[
+				"jek",
+				"Set Syntax: Markdown (Jekyll)"
+			],
+			[
+				"jekyll",
+				"Set Syntax: Markdown (Jekyll)"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pyso",
+				"pysort"
+			],
+			[
+				"char",
+				"Character Table: Insert Unicode Character"
+			],
+			[
+				"charac",
+				"Character Table: Insert Unicode Character"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Create Package File"
+			],
+			[
+				"snippet",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"filediff",
+				"FileDiffs: Menu"
+			],
+			[
+				"aligntab",
+				"AlignTab: Table Mode"
+			],
+			[
+				"pysort",
+				"pysort"
+			],
+			[
+				"api helper",
+				"Sublime Text API Helper: *"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"table",
+				"Table Editor: Disable for current syntax"
+			],
+			[
+				"preview",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"line",
+				"Permute Lines: Unique"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"keymap",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"book",
+				"Bookmarks: Clear All"
+			],
+			[
+				"bookmark",
+				"Bookmarks: Toggle"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"",
+				"AlignTab: Table Mode"
+			],
+			[
+				"uprade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"encode",
+				"File: Copy Name Encoded"
+			],
+			[
+				"HOST",
+				"Open Hosts File"
+			],
+			[
+				"HOD",
+				"Python: Get documentation"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upga",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"requre",
+				"Set Syntax: requirements.txt"
+			],
+			[
+				"filter",
+				"Filter Lines: Filter With Regex"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"select",
+				"Rot13 Selection"
+			],
+			[
+				"s",
+				"Snippet: self"
+			],
+			[
+				"run",
+				"Run"
+			],
+			[
+				"makrdown",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"github",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"thmer",
+				"Themr: List themes"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"git log",
+				"Git: Quick Log Current File"
+			],
+			[
+				"git status",
+				"Git: Quick Status"
+			],
+			[
+				"syntax:c",
+				"Set Syntax: C"
+			],
+			[
+				"sublime",
+				"SublimeGit: Install License"
+			],
+			[
+				"upgrad",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ugrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"read",
+				"GoSublime: Read Me"
+			],
+			[
+				"sublimerepl",
+				"SublimeREPL: Clisp"
+			],
+			[
+				"getd",
+				"Python: Get documentation"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"org",
+				"Preferences: orgmode Settings – Default"
+			],
+			[
+				"jinja",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"edit",
+				"Edit Preference: List Shortcut Keys"
+			],
+			[
+				"format",
+				"PEP8: Format Code"
+			],
+			[
+				"jinj",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"smar",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"siee",
+				"GoSublime: Open Error Log"
+			],
+			[
+				"pep",
+				"PEP8: Format Code"
+			],
+			[
+				"find",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"api",
+				"API-Completion-Package: Settings – Default"
+			],
+			[
+				"py",
+				"Python: Get documentation"
+			],
+			[
+				"thm",
+				"Themr: Next theme"
+			]
+		],
+		"width": 562.0
+	},
+	"console":
+	{
+		"height": 377.0,
+		"history":
+		[
+			"view.run_command('cancel_task')",
+			"view",
+			"view.run_command('complete_task')",
+			"sublime.run_command('pysort')",
+			"sublime.run_command",
+			"sublime.run_command('Complete')",
+			"sublime.run_command('complete_task')",
+			"sublime.run_command('completetask')",
+			"sublime.run_command('complete_task')",
+			"sublime.run_command('CompleteTask')",
+			"sublime.run_command('completetask')",
+			"sublime.run_command('complete_task')",
+			"view.run_command('json_tree')",
+			"view.run_command('pysort')",
+			"view.window().new_file()",
+			"view.window()",
+			"view.windows()",
+			"view.run_command('pysort')",
+			"view.file_name()",
+			"view.name()",
+			"view",
+			"sublime.Window.new_file()",
+			"sublime.Window",
+			"sublime.window",
+			"view.run_command('pysort')",
+			"isort.sort",
+			"isort",
+			"import isort",
+			"isort.sort",
+			"isort",
+			"view.run_command(pysort)",
+			"isort.SECTION_NAMES",
+			"isort",
+			"from isort import isort",
+			"import isort.isort",
+			"isort.isort",
+			"isort",
+			"isort.sort",
+			"import isort.sort",
+			"import isort.isort",
+			"view.run_command('pysort')",
+			"self",
+			"view.run_command('pysort')",
+			"view.run_command('sort')",
+			"view.run_command('example')",
+			"view.run_command('pysort')",
+			"isort.sort.PySortCommand",
+			"isort.sort",
+			"isort",
+			"import isort",
+			"isort",
+			"view.run_command('pysort')",
+			"view",
+			"view.run_command.__doc__",
+			"dir(view.run_command)",
+			"view.run_command",
+			"view.run_command('pySort')",
+			"view.run_command('pysort')",
+			"view.run_command('isort')",
+			"view.run_command('example')",
+			"file",
+			"import Sublime_Bookmarks",
+			"urllib",
+			"import urllib",
+			"import",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) ",
+			"view",
+			"sublime",
+			"sublime.ColorHighlighter",
+			"ColorHighlighter",
+			"color",
+			"cls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Sublime Text 3/Data/Packages/ToDone/Default(Windows).sublime-keymap",
+		"/D/Sublime Text 3/Data/Packages/SublimeEvernote/SublimeEvernote.sublime-settings",
+		"/D/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Sublime Text 3/Data/Packages/ToDone/Context.sublime-menu",
+		"/D/Sublime Text 3/Data/Packages/ToDone/Default.sublime-commands",
+		"/D/Sublime Text 3/Data/Packages/isort/Context.sublime-menu",
+		"/D/Sublime Text 3/Data/Packages/isort/Default.sublime-commands",
+		"/I/blogs/turbidsoul.github.io/pelican-plugins/.git",
+		"/I/blogs/turbidsoul.github.io/.gitmodules",
+		"/D/Sublime Text 3/Data/Packages/ToDone/Settings/ToDone.sublime-settings",
+		"/D/Sublime Text 3/Data/Packages/ToDone/readme.todo",
+		"/D/Sublime Text 3/Data/Packages/ToDone/Settings/To-Done.sublime-settings",
+		"/D/Sublime Text 3/Data/Packages/ToDone/example.todo",
+		"/D/Sublime Text 3/Data/Packages/User/To-Done.sublime-settings",
+		"/D/Sublime Text 3/Data/Packages/To-Done/Default.sublime-commands",
+		"/D/Sublime Text 3/Data/Packages/GitGutter/git_gutter.py",
+		"/D/Sublime Text 3/Data/Packages/GitGutter/Default.sublime-commands",
+		"/D/Sublime Text 3/Data/Packages/isort/sort.py",
+		"/D/Sublime Text 3/Data/Packages/To-Done/.gitignore",
+		"/D/Sublime Text 3/Data/Packages/To-Done/Main.sublime-menu",
+		"/H/goagent/server/gae/gae.py",
+		"/H/goagent/server/gae/app.yaml",
+		"/c/users/x/appdata/local/temp/sublime-svn-1402391218/SVN",
+		"/I/python/statistics/connection/__init__.py",
+		"/I/python/statistics/alembic/versions/184034557bfe_add_column_ad_id_to_.py",
+		"/I/python/statistics/alembic/versions/1da1856c0e38_remove_description_f.py",
+		"/I/python/statistics/alembic/env.py",
+		"/I/python/statistics/test.py",
+		"/I/python/statistics/redis_data_tool.py",
+		"/I/python/statistics/tjredis.lua",
+		"/I/python/statistics/repair.log",
+		"/I/python/statistics/repair.py",
+		"/I/python/statistics/config.yml",
+		"/I/python/statistics/alembic/versions/68887907022_add_table_stats_count_click_count.py",
+		"/I/python/statistics/alembic/versions/51c7bd48361f_add_table_stats_count_click_count.py",
+		"/I/python/statistics/alembic/versions/5f1b0bacb05_add_table_tj_stats_courseclick.py",
+		"/I/python/statistics/alembic/versions/410337ef58da_add_table_tj_stats_s.py",
+		"/I/python/statistics/alembic/versions/4049d3236fa8_add_description_for_.py",
+		"/I/python/statistics/alembic.ini",
+		"/I/python/statistics/alembic/versions/3d8bc63b70b8_add_table_tj_stats_courseclick.py",
+		"/I/python/statistics/alembic/versions/295310e26317_add_table_tj_stats_o.py",
+		"/I/python/statistics/alembic/versions/2e2e6b593bcb_add_table_tj_access_.py",
+		"/I/python/statistics/alembic/versions/18dece51da52_add_table_tj_stats_courseclick.py",
+		"/I/python/statistics/stats_download.py",
+		"/I/python/statistics/util.py",
+		"/I/python/statistics/bbs_stats.sql",
+		"/I/python/statistics/realtime_wenkudl.awk",
+		"/I/python/statistics/realtime_searchkw.awk",
+		"/I/python/statistics/models.py",
+		"/I/python/statistics/nginx.conf",
+		"/I/python/statistics/settings.py",
+		"/I/python/statistics/statistics.py",
+		"/I/doc/work.todo",
+		"/I/python/ksdtool/doc2pdf.py",
+		"/c/users/x/appdata/local/temp/sublime-svn-1401181690/SVN",
+		"/c/users/x/appdata/local/temp/sublime-svn-1401086573/SVN",
+		"/c/users/x/appdata/local/temp/sublime-svn-1401086474/SVN",
+		"/c/users/x/appdata/local/temp/sublime-svn-1401086428/SVN",
+		"/I/python/statistics/search.txt",
+		"/I/python/statistics/statistics.zip",
+		"/C/Users/x/Desktop/ea4b4111a08b342a40d11d89a349b20d_r.jpg",
+		"/I/python/statistics/sftp-config.json",
+		"/I/python/statistics/sftp-config-alt.json",
+		"/D/soft/XshellXftpPortable/Data/Settings/Sessions/Xshell/116.255.240.199.xsh",
+		"/I/python/statistics/server.py",
+		"/I/python/statistics/tjlog.lua",
+		"/I/php/bbs/source/plugin/ksd_wenku/realtime_wenkudl.awk",
+		"/I/python/statistics/requirements.txt",
+		"/I/doc/sftp-config.json",
+		"/I/python/statistics/realtime_bbs.awk",
+		"/c/users/x/appdata/local/temp/sublime-svn-1399109829/SVN",
+		"/c/users/x/appdata/local/temp/sublime-svn-1399108766/SVN",
+		"/c/users/x/appdata/local/temp/sublime-svn-1399108687/SVN",
+		"/c/users/x/appdata/local/temp/sublime-svn-1398766319/SVN",
+		"/I/php/bbs/source/plugin/ksd_index/index.inc.php",
+		"/I/php/bbs/source/plugin/ksd_index/function/function_ksd_index.php",
+		"/I/php/bbs/source/plugin/cloudstat/cloudstat.class.php",
+		"/I/blogs/turbidsoul.github.io/_layouts/default.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/E/Scripts/colout",
+		"/D/Sublime Text 3/Data/Packages/Color Scheme - Default/Zenburnesque.tmTheme",
+		"/I/blogs/turbidsoul.github.io/_posts/2014-04-10-shi-yong-awk-zuo-shi-shi-de-tong-ji.md",
+		"/I/blogs/turbidsoul.github.io/_posts/2014-01-26-nginx-shi-xian-wen-jian-xia-zai-zi-dong-da-bao-cheng-zip-wen-jian.md",
+		"/I/blogs/turbidsoul.github.io/_posts/2011-12-01-develop-jquery-plugin.md",
+		"/I/python/statistics/test.awk",
+		"/D/download/hb-test.py",
+		"/C/Users/x/Desktop/test.txt",
+		"/C/Users/x/.ssh/soushi_rsa.pub",
+		"/C/Users/x/.ssh/soushi2_rsa.pub",
+		"/C/Users/x/.ssh/github_rsa.pub",
+		"/I/php/bbs/source/plugin/ksd_zhidao/table/table_zhidao_question.php",
+		"/I/php/bbs/source/plugin/ksd_zhidao/list.inc.php",
+		"/E/Scripts/ipythonqt.bat",
+		"/I/php/bbs/source/plugin/ksd_video/list.inc.php",
+		"/I/php/bbs/source/plugin/ksd_video/template/index_v2.htm",
+		"/I/php/bbs/source/plugin/ksd_zhidao/adm_questions.inc.php",
+		"/I/doc/特出处理视频.md",
+		"/I/doc/account.md",
+		"/I/doc/record.md",
+		"/I/doc/LB.json",
+		"/D/Sublime Text 3/Data/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/I/php/bbs/api.php",
+		"/I/php/bbs/ask.php",
+		"/I/php/bbs/home.php",
+		"/I/php/bbs/zixun/index.php",
+		"/I/python/statistics/alembic/versions/17b87141af12_add_table_tj_bbs_cou.py",
+		"/I/python/statistics/alembic/versions/4b43df1a78a4_add_table_urlpromoti.py",
+		"/I/python/statistics/connection/aaa/__init__.py",
+		"/D/Sublime Text 3/Data/Local/sublimeBookmarks.pickle",
+		"/D/Sublime Text 3/Data/Index/MANIFEST-001203",
+		"/D/Sublime Text 3/Data/Index/CURRENT",
+		"/I/python/statistics/statistics.sublime-project",
+		"/I/python/statistics/alembic/versions/77515f4ade7_add_table_resolution.py",
+		"/C/Users/x/Desktop/test.html",
+		"/D/soft/goagent/server/gae/app.yaml",
+		"/D/soft/goagent/server/gae/gae.py",
+		"/D/soft/mysqldata/test/test.MRG",
+		"/D/soft/mysqldata/test/test1.MYD",
+		"/D/soft/mysqldata/test/test.frm",
+		"/D/download/CA.crt",
+		"/D/soft/Firefox3/extensions.json",
+		"/I/python/statistics/alembic/versions/f40c55c8df7_update_platform_leng.py",
+		"/I/python/statistics/schedule.py",
+		"/I/firefox/addon-sdk/bin/cfx",
+		"/C/Users/x/AppData/Local/Temp/mozilla-temp-files/mozilla-temp-9154",
+		"/C/Users/x/AppData/Local/Temp/harness-stdout-sq2bkk",
+		"/I/python/statistics/alembic/versions/521123bec6af_add_column_record_se.py"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"<open folders>",
+			"I:\\php\\bbs",
+			"I:\\c\\mod_zip",
+			"Packages\\Default,*.py",
+			"D:\\work\\work1\\ksdfront\\src\\main\\webapp\\WEB-INF\\freemarker\\views\\teacher\\personalcenter,*.ftl",
+			"D:\\Ruby200-x64\\lib\\ruby\\gems\\2.0.0\\gems\\jekyll-1.3.1,*.rb",
+			"D:\\Sublime Text 3\\,*.py",
+			"D:\\python\\Python27\\Lib,*.py",
+			"D:\\Python27,*.py",
+			"E:\\opensource\\redis\\PyRedisAdmin"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"t",
+			"plus",
+			"caption",
+			"sync_public_2_local",
+			"supplement_login_record",
+			"find_one",
+			"184034557bfe",
+			"bctype",
+			"BCType",
+			"bctype",
+			"redis",
+			"line",
+			"^A",
+			"videolist-3",
+			"videolist",
+			"videolist-3",
+			"videolist-3.html",
+			"ix_tj_access_record",
+			"uvcode",
+			"pretypeiter",
+			"ngx.re",
+			"debug",
+			"pip",
+			"entity",
+			"server_default=text('NOW()')",
+			"sa.text('NOW()')",
+			"default=datetime.now()",
+			"sa.text('NOW()')",
+			"sa.text('NOW()'), nullable=False",
+			"default=datetime.now()",
+			"item.value",
+			"tem.value",
+			"item.key",
+			"stats_bbs_hot_item",
+			"resource_bc",
+			"emmet",
+			"bbs_",
+			"if bbs_type =",
+			"themr",
+			"caret",
+			"InteractiveShellApp",
+			"interactiveshellapp",
+			"mingw",
+			"re_str",
+			"type",
+			"ngx_http_zip_init",
+			"ngx_http_zip_header_filter",
+			"ngx_http_zip_subrequest_header_filter",
+			"a subrequest",
+			"not found",
+			"path",
+			"say",
+			"rule",
+			"ruler",
+			"iterator",
+			"round",
+			"ars",
+			"encode",
+			"m",
+			"view",
+			"message",
+			"2.",
+			"2.0",
+			"root",
+			"_ar",
+			"base_url",
+			".domain",
+			"current",
+			"$",
+			"read_with_options",
+			"File.read",
+			"ksd",
+			"  ",
+			"table",
+			" then",
+			"ngx.var.ksd_",
+			"cookies[",
+			"+ ngx",
+			"''",
+			"arg_ksd",
+			".. ngx",
+			"PAY_BY_KUAIBILL",
+			"document.url",
+			"lgfh",
+			"print",
+			"=",
+			"gbk2utf8",
+			"play",
+			"String(21845)",
+			"65535",
+			"Text",
+			"encode(",
+			".encode('utf8')",
+			"_create_query",
+			"uvcode",
+			"location",
+			"bl",
+			"_entity_2_db",
+			"title",
+			"$arg",
+			"192.168.1.196",
+			"IntCol",
+			"UnicodeCol",
+			"DateTimeCol",
+			"StringCol",
+			"^Aav",
+			"request_method",
+			"BooleanCol",
+			"DateTimeField",
+			"ObjectIdField",
+			"URLField",
+			"IntField",
+			"BooleanField",
+			"max_length",
+			"StringField",
+			"_connections",
+			"connection_settings",
+			"dummy",
+			"mysql",
+			"-mno-cygwin",
+			"--mno",
+			"name",
+			"cls",
+			"parse_login_url",
+			"parse_bbs_url",
+			"parse_www_url",
+			"exec_lines",
+			"readline_parse_and_bind"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\n    entity_type = None",
+			"table"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "todone.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								776,
+								776
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								222,
+								6,
+								11,
+								11,
+								30,
+								17,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"tabs_extra_last_activated": 1403334507.05,
+							"tabs_extra_last_activated_view_index": 0,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 56.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "example.todo",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2683,
+								2683
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close"
+							],
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								221,
+								12,
+								3,
+								8,
+								44,
+								56,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"incomplete_sync": null,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ToDone/To-Done.tmLanguage",
+							"tabs_extra_last_activated": 1403337160.07,
+							"tabs_extra_last_activated_view_index": 1,
+							"tabs_extra_moving":
+							[
+								2,
+								0
+							],
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 787.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Sublime Text 3/Data/Packages/SublimeEvernote/Default (Windows).sublime-keymap",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 64,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close"
+							],
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								222,
+								2,
+								21,
+								15,
+								47,
+								16,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/AAAPackageDev/Syntax Definitions/Sublime Key Map.tmLanguage",
+							"tabs_extra_last_activated": 1403337418.33,
+							"tabs_extra_last_activated_view_index": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 20.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://F:\\work\\nginx\\nginx\\nginx-upload-module":
+	{
+		"height": 92.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 92.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 90.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 90.0
+	},
+	"output.exec":
+	{
+		"height": 376.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 464.0
+	},
+	"output.rope_python_documentation":
+	{
+		"height": 262.0
+	},
+	"output.sftp":
+	{
+		"height": 240.0
+	},
+	"output.unicode_preview":
+	{
+		"height": 156.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 336.0
+	},
+	"project": "todong.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"config",
+				"config.yml"
+			],
+			[
+				"redis",
+				"redis_data_tool.py"
+			],
+			[
+				"repair",
+				"repair.py"
+			],
+			[
+				"settings",
+				"settings.py"
+			],
+			[
+				"test.py",
+				"test.py"
+			],
+			[
+				"add_table_tj_",
+				"alembic\\versions\\5f1b0bacb05_add_table_tj_stats_courseclick.py"
+			],
+			[
+				"add_table_aj",
+				"alembic\\versions\\3d8bc63b70b8_add_table_tj_stats_courseclick.py"
+			],
+			[
+				"side",
+				"alembic\\versions\\1da1856c0e38_remove_description_f.py"
+			],
+			[
+				"e",
+				"alembic\\env.py"
+			],
+			[
+				"models",
+				"models.py"
+			],
+			[
+				"sftp",
+				"sftp-config.json"
+			],
+			[
+				"sc",
+				"schedule.py"
+			],
+			[
+				"uti",
+				"util.py"
+			],
+			[
+				"model",
+				"models.py"
+			],
+			[
+				"sett",
+				"settings.py"
+			],
+			[
+				"sched",
+				"schedule.py"
+			],
+			[
+				"mode",
+				"models.py"
+			],
+			[
+				"stat",
+				"statistics.py"
+			],
+			[
+				"mo",
+				"models.py"
+			],
+			[
+				"sche",
+				"schedule.py"
+			],
+			[
+				"realt",
+				"realtime_bbs.awk"
+			],
+			[
+				"test",
+				"test.py"
+			],
+			[
+				"confi",
+				"config.yml"
+			],
+			[
+				"setting",
+				"settings.py"
+			],
+			[
+				"scheld",
+				"schedule.py"
+			],
+			[
+				"re",
+				"repair.py"
+			],
+			[
+				"add_table_tj_stats_s",
+				"alembic\\versions\\410337ef58da_add_table_tj_stats_s.py"
+			],
+			[
+				"stati",
+				"statistics.py"
+			],
+			[
+				"addtablese",
+				"alembic\\versions\\3e7d7d0dcff6_add_table_tj_sequenc.py"
+			],
+			[
+				"mod",
+				"models.py"
+			],
+			[
+				"wor",
+				"I:\\doc\\work.todo"
+			],
+			[
+				"log",
+				"tjlog.lua"
+			],
+			[
+				"h",
+				"C:\\Windows\\System32\\drivers\\etc\\hosts"
+			],
+			[
+				"lua",
+				"tjlog.lua"
+			],
+			[
+				"requ",
+				"requirements.txt"
+			],
+			[
+				"stats",
+				"statistics.sublime-project"
+			],
+			[
+				"util",
+				"util.py"
+			],
+			[
+				"connection",
+				"connection\\mysql_connection.py"
+			],
+			[
+				"connec",
+				"connection\\mongo_connection.py"
+			],
+			[
+				"test.",
+				"test.py"
+			],
+			[
+				"up",
+				"alembic\\versions\\116c6085edfe_update_platform_leng.py"
+			],
+			[
+				"tjlog",
+				"tjlog.lua"
+			],
+			[
+				"tjre",
+				"tjredis.lua"
+			],
+			[
+				"tjlua",
+				"tjlog.lua"
+			],
+			[
+				"ng",
+				"nginx.conf"
+			],
+			[
+				"al",
+				"alembic.ini"
+			],
+			[
+				"an.js",
+				"an.js"
+			],
+			[
+				"tjlo",
+				"tjlog.lua"
+			],
+			[
+				"an",
+				"an.js"
+			],
+			[
+				"1c00db61f0b2",
+				"alembic\\versions\\1c00db61f0b2_add_referrer_and_url.py"
+			],
+			[
+				"4049d3236fa8",
+				"alembic\\versions\\4049d3236fa8_add_description_for_.py"
+			],
+			[
+				"sch",
+				"schedule.py"
+			],
+			[
+				"conf",
+				"config.yml"
+			],
+			[
+				"mongo",
+				"connection\\mongo_connection.py"
+			],
+			[
+				"mysql",
+				"connection\\mysql_connection.py"
+			],
+			[
+				"nginx",
+				"nginx.conf"
+			],
+			[
+				"statis",
+				"statistics.py"
+			],
+			[
+				"add_des",
+				"alembic\\versions\\4049d3236fa8_add_description_for_.py"
+			],
+			[
+				"nf",
+				"nginx.conf"
+			],
+			[
+				"ngin",
+				"nginx.conf"
+			],
+			[
+				"ut",
+				"util.py"
+			],
+			[
+				"env",
+				"alembic\\env.py"
+			],
+			[
+				"ale",
+				"alembic.ini"
+			],
+			[
+				"77",
+				"alembic\\versions\\77515f4ade7_add_table_resolution.py"
+			],
+			[
+				"serv",
+				"server.py"
+			],
+			[
+				"utl",
+				"util.py"
+			],
+			[
+				"req",
+				"requirements.txt"
+			],
+			[
+				"mysq",
+				"connection\\mysql_connection.py"
+			],
+			[
+				"pyip",
+				"pyip.py"
+			],
+			[
+				"ksd",
+				"ksd.log"
+			],
+			[
+				"ksdlog",
+				"ksd.log"
+			],
+			[
+				"page.",
+				"tsblog\\views\\page.tpl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"test",
+				"D:\\work\\python\\test\\test.sublime-project"
+			],
+			[
+				"rtmp",
+				"I:\\python\\rtmp\\rtmp.sublime-project"
+			],
+			[
+				"",
+				"I:\\blogs\\turbidsoul.github.io\\turbidsoul.github.io.sublime-workspace"
+			],
+			[
+				"discuz",
+				"I:\\php\\discuz3\\discuz.sublime-project"
+			],
+			[
+				"todong",
+				"D:\\Sublime Text 3\\Data\\Packages\\To-Done\\todong.sublime-workspace"
+			],
+			[
+				"todone",
+				"D:\\Sublime Text 3\\Data\\Packages\\ToDone\\todone.sublime-project"
+			],
+			[
+				"dis",
+				"I:\\php\\discuz3\\discuz.sublime-project"
+			],
+			[
+				"ksdt",
+				"I:\\python\\ksdtool\\ksdtool.sublime-project"
+			],
+			[
+				"ksdtool",
+				"I:\\python\\ksdtool\\ksdtool.sublime-project"
+			],
+			[
+				"bbs",
+				"I:\\php\\bbs\\bbs.sublime-project"
+			],
+			[
+				"rt",
+				"I:\\python\\rtmp\\rtmp.sublime-project"
+			],
+			[
+				"awk",
+				"I:\\awk\\awk.sublime-project"
+			],
+			[
+				"TEST",
+				"D:\\work\\python\\test\\test.sublime-project"
+			],
+			[
+				"sub",
+				"D:\\Sublime Text 3\\Data\\Packages\\SublimeEvernote\\SublimeEvernote.sublime-project"
+			],
+			[
+				"sublime",
+				"D:\\Sublime Text 3\\Data\\Packages\\SublimeEvernote\\SublimeEvernote.sublime-project"
+			],
+			[
+				"statistics",
+				"F:\\work\\python\\statistics\\statistics.sublime-workspace"
+			],
+			[
+				"eve",
+				"D:\\Sublime Text 3\\Data\\Packages\\SublimeEvernote\\SublimeEvernote.sublime-project"
+			],
+			[
+				"r",
+				"I:\\python\\rtmp\\rtmp.sublime-project"
+			],
+			[
+				"ever",
+				"D:\\Sublime Text 3\\Data\\Packages\\SublimeEvernote\\SublimeEvernote.sublime-project"
+			],
+			[
+				"wx",
+				"D:\\work\\sae\\wx\\wx.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 450.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 344.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

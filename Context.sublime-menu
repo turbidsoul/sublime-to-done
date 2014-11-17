@@ -1,0 +1,16 @@
+[
+    {
+        "id": "ToDone: CompleteTask",
+        "command": "complete_task"
+    },
+
+    {
+        "id": "ToDone: CancelTask",
+        "command": "cancel_task"
+    },
+
+    {
+        "id": "ToDone: EmergencyTask",
+        "command": "emergency_task"
+    }
+]

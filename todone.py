@@ -3,7 +3,7 @@
 # @Author: Turbidsoul Chen
 # @Date:   2014-06-11 11:30:17
 # @Last Modified by:   Turbidsoul Chen
-# @Last Modified time: 2014-06-19 16:10:55
+# @Last Modified time: 2014-11-15 12:08:02
 
 import sublime
 import sublime_plugin
@@ -22,9 +22,10 @@ class CompleteTaskCommand(sublime_plugin.TextCommand):
                 break
             indent += c
         new_line = indent
-        if task_content[1] == '+':
+        print(task_content)
+        if task_content[0] == '+':
             new_line += task_content[1:]
-        elif task_content[1] == '.':
+        elif task_content[0] == '.':
             new_line +=  "+" + task_content[1:]
         else:
             new_line += "+" + task_content
